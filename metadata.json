@@ -1,0 +1,6 @@
+{
+  "name": "대진전자통신고 급식알리미",
+  "description": "대진전자통신고등학교 나이스(NEIS) 연동 일별/주간 급식 조회, 영양 정보 및 알레르기 알림 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
